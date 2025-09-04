@@ -1,0 +1,16 @@
+{
+    "id": "3",
+    "name": "De Arrascaeta",
+    "club": "Flamengo",
+    "nationality": "Chilean",
+    "position": "Middle",
+    "statistics": {
+        "Overall": 86,
+        "Pace": 78,
+        "Shooting": 85,
+        "Passing": 89,
+        "Dribbling": 89,
+        "Defending": 73,
+        "Physical": 82
+    }
+}
