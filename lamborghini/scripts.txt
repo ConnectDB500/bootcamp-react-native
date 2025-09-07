@@ -1,0 +1,13 @@
+npm install --global expo-cli
+
+1# npx create-expo-app meu-projeto -t
+
+2# cd meu-projeto
+
+3# npm run start
+
+npm i typescript tsx tsup -t
+
+npx tsc --init
+
+npx expo install react-dom react-native-web @expo/metro-runtime

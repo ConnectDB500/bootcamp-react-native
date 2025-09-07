@@ -1,0 +1,8 @@
+Link para API:
+https://digitalinnovationone.github.io/fake-data-api-lamborghini/api/lamborghini.json
+
+Link para imagens:
+https://digitalinnovationone.github.io/fake-data-api-lamborghini/assets/1.png
+
+Link do github do projeto:
+https://github.com/digitalinnovationone/trilha-react-native-expo-lamborghini-app/tree/main
