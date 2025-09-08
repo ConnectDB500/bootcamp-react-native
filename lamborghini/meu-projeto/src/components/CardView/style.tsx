@@ -21,5 +21,28 @@ export const styles = StyleSheet.create({
         flex: 1,
         width: "65%",
         resizeMode: "contain"
+    },
+
+        carBrand: {
+        color: "#fff",
+        fontWeight: "400",
+        fontSize: 10,
+        fontStyle: "italic"
+    },
+
+    carName: {
+        color: "#fff",
+        fontSize:  20,
+        fontWeight: "bold",
+        textAlign: "center"
+    },
+
+    image: {
+        flex: 1,
+        justifyContent: "center",
+        alignItems: "center",
+        marginBottom: 10,
+        width: "100%",
+        height: "100%"
     }
 })
