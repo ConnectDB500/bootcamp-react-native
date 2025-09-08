@@ -6,6 +6,8 @@ npm install --global expo-cli
 
 3# npm run start
 
+4# npm install axios
+
 npm i typescript tsx tsup -t
 
 npx tsc --init
